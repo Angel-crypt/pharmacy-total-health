@@ -1,0 +1,4 @@
+package employees
+
+class Stocker {
+}

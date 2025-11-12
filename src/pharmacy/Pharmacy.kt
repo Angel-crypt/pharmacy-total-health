@@ -1,0 +1,4 @@
+package pharmacy
+
+class Pharmacy {
+}
